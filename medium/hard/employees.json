@@ -1,0 +1,14 @@
+{
+  "employee": [
+    { "id": 1, "name": "Grogu", "salary": 5000, "building": "1" },
+    { "id": 2, "name": "Ashoka", "salary": 6000, "building": "2" },
+    { "id": 3, "name": "Rex", "salary": 5500, "building": "3" },
+    { "id": 4, "name": "Grievious", "salary": 7000, "building": "4" },
+    { "id": 5, "name": "Mace", "salary": 8000, "building": "5" },
+    { "id": 6, "name": "Yoda", "salary": 6500, "building": "6" },
+    { "id": 7, "name": "Padme", "salary": 9000, "building": "7" },
+    { "id": 8, "name": "Anakin", "salary": 4000, "building": "8" },
+    { "id": 9, "name": "Obi", "salary": 3500, "building": "9" },
+    { "id": 10, "name": "Ezrah", "salary": 9000, "building": "10" }
+  ]
+}
